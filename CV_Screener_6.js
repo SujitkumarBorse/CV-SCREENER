@@ -91,7 +91,7 @@ function nextCV() {
       <li class="list-group-item">Framework : ${currentCandidate.framework}</li>
     </ul>`
       } else {
-            alert('End of Applicatios');
+            alert('End of Applications');
             window.location.reload();
       }
 }
